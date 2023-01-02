@@ -33,3 +33,5 @@ app.post('/send', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`SMTP Server running on port ${PORT}`);
 });
+
+// Feature added on 2025-09-09
