@@ -18,7 +18,7 @@ npm install
 
 \`\`\`javascript
 const smtpServer = require('./smtp-server');
-smtpServer.start();
+smtpServer.start()
 \`\`\`
 
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
