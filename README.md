@@ -10,7 +10,7 @@ A robust SMTP server implementation for handling email communications.
 
 ## Installation
 
-\`\`\`bash
+\`\`\`bash\
 npm install
 \`\`\`
 
