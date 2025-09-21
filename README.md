@@ -15,7 +15,6 @@ npm install
 \`\`\`
 
 
-
 ## Usage
 
 \`\`\`javascript
