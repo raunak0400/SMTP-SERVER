@@ -1,6 +1,6 @@
 const express = require('express');
 const nodemailer = require('nodemailer');
-
+const nodemailer = require('nodemailer');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
